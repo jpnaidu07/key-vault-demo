@@ -1,0 +1,7 @@
+azure:
+  keyvault:
+    client-id: 
+    client-key: 
+    enabled: true
+    token-acquire-timeout-seconds: 10
+    uri: 
