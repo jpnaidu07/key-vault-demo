@@ -1,7 +1,6 @@
 azure:
   keyvault:
-    client-id: todo
-    client-key: todo
-    secret.keys: yourSecretPropertyName, yourSecretPropertyName1, yourSecretPropertyName2, yourSecretPropertyName3, yourSecretPropertyName4, yourSecretPropertyName5, yourSecretPropertyName6, yourSecretPropertyName7, yourSecretPropertyName8, yourSecretPropertyName9, yourSecretPropertyName10
-    tenant-id: todo
-    uri: todo
+    client-id:
+    client-key:
+    tenant-id:
+    uri:
